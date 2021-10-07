@@ -1,0 +1,104 @@
+/*ul li common*/
+ul li {
+	list-style-type: none;
+	line-height:30px;
+}
+
+/*ol li on class*/
+ol.sanguin li, ol.koleris li, ol.melankolis li, ol.plegmatis li{
+	list-style-type: decimal;
+}
+
+/*p class*/
+p.sanguin,p.koleris,p.melankolis,p.plegmatis{
+	line-height: 30px;
+	margin-left:-20px;
+}
+
+
+/*overlay*/
+.overlay{
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	background: rgba(0,0,0,0.0);
+	transition: 1s cubic-bezier(0.95, 0.48, 0, 1.11);
+	width: 0;
+	height: 0;
+	overflow: hidden;
+	padding: 50px 0;
+}
+.overlay:target{
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+	width: auto;
+	height: auto;
+}
+.overlay a.exit{
+	width: 20px;
+	height: 20px;
+	padding: 10px;
+	background-color: white;
+	color: blue;
+	font-weight: bolder;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	line-height:20px;
+}
+
+/*icon*/
+.fa-user-graduate{
+    margin:0 0 0 3px;
+}
+
+@font-face{
+	font-family: "Verdana";
+	src: url('../../fontawasome/webfonts/Verdana.ttf') format('truetype');
+}
+/*section*/
+section{
+	max-width: 440px;
+	max-height: 350px;
+	margin: 50% auto;
+	margin-top: -10px;
+	font-size: 17px;
+	border-radius: 4px 10px 3px;
+	box-shadow: 5px 7px 13px rgba(255,255,255,0.3);
+	font-family: Verdana,arial,serif;
+	position:absolute;
+	top:50%;
+	transform:translateY(-50%);
+}
+section.sanguin{
+	background-color: orange;
+}
+section.koleris{
+	background-color: #19e562;
+}
+section.melankolis{
+	background-color: #06ebd2;
+}
+section.plegmatis{
+	background-color: #e9d426;
+}
+section.plegmatis, section.melankolis, section.koleris, section.sanguin{
+	padding: 40px 0 40px 40px;
+	overflow-y: scroll;
+	position: relative;
+}
+
+
+h3.kelebihan{
+	color:white;
+}
+h3.kekurangan{
+	color:red;
+}
+h3.kekurangan, h3.kelebihan{
+	text-align:center;
+	text-transform:uppercase;
+	font-weight: bolder;
+	margin-left: -30px;
+}

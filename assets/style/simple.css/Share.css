@@ -1,0 +1,67 @@
+body{
+	padding:0;
+	margin:0;
+	background-image: url(../../../pics/doodles.png);
+}
+h1.hasil{
+	text-align:center;
+	color:#ffffff;
+}
+@font-face{
+	font-family: "Verdana";
+	src: url('../../fontawasome/webfonts/Verdana.ttf') format('truetype');
+}
+.info{
+	max-width: 200px;
+	max-height: 160px;
+	padding: 10px;
+	margin:30px auto;
+	font-family: Verdana,arial,serif;
+}
+div#grid{
+	border-radius:5px;
+	height:inherit;
+}
+div#selimut{
+	max-width:375px;
+	height:600px;
+	margin:0 auto;
+	position: relative;
+}
+.info ol li{
+	color: white;
+	margin-bottom:20px;
+}
+.info ol li::first-letter{
+	text-transform:uppercase;
+	font-weight: bolder;
+}
+a{
+	text-decoration: none;
+	color:inherit;
+	cursor:pointer;
+}
+
+/*button*/
+button.exit{
+	width:200px;
+	padding:9px;
+	outline:none;
+	border:none;
+	background-color:white;
+	color:white;
+	font-transform:uppercase;
+	border-radius: 5px;
+}
+button.exit:hover{
+	cursor:pointer;
+	background-color:#00f914;
+	color:white;
+}
+div.exit{
+	text-align: center;
+	position: absolute;
+	bottom: 5px;
+	left: 50%;
+	transform: translateX(-50%);
+}

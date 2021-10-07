@@ -1,0 +1,77 @@
+div.layer{
+	width: 0;
+	height: 0;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0,0,0,.0);
+	text-align: center;
+	padding: 40px 0;
+}
+div.layer:target{
+	width: auto;
+	height: auto;
+	top: 0;
+	left: 0;
+	transition: 1s ease;
+	background-color: rgba(0,0,0,.93);
+}
+
+div.pandora{
+	margin-top: -25px;
+	display: grid;
+	grid-template-columns: 1fr 400px;
+}
+
+div.image img{
+	max-height: 500px;
+}
+div.image{
+	border-left: 3px solid #fff;
+	padding: 4px;
+}
+div.info img{
+	max-height: 350px;
+	border-radius: 5px;
+}
+div.info{
+	padding: 5px;
+}
+
+p.info,p.creator,p.onCreate{
+	color: #fff;
+}
+@font-face{
+	font-family: "Verdana";
+	src: url('../../fontawasome/webfonts/Verdana.ttf') format('truetype');
+}
+p.info{
+	font-family: Verdana,arial,serif;
+}
+
+.exit {
+	display: grid;
+	grid-template-columns: 1fr;
+	text-decoration: none;
+	color: #fff;
+	height: 30px;
+	line-height: 30px;
+	background-color: orange;
+}
+
+
+@media screen and (max-width: 700px){
+	div.pandora{
+		display: block;
+		overflow: auto;
+	}
+	div.layer:target{
+		overflow: auto;
+	}
+	div.info img{
+		position: static;
+	}
+	div.image{
+		border: none;
+	}
+}
