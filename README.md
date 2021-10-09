@@ -1,5 +1,5 @@
 <h1 align="center">TES PSIKOLOGI ISLAM</h1>
-<p>Aplikasi ini saya buat setelah selesai membaca buku dengan judul **Psikologi Islam yang Sempurna**, point penting bukunya sebenarnya mengenai penjelasan 4 dasar sifat manusia, diantaranya</p>
+<p>Aplikasi ini saya buat setelah selesai membaca buku dengan judul <b>Psikologi Islam yang Sempurna<b>, point penting bukunya sebenarnya mengenai penjelasan 4 dasar sifat manusia, diantaranya</p>
 
 * Sanguin
 * Melankolis
@@ -9,7 +9,7 @@
 <p>4 sifat di atas dijelakan dalam sudut pandang Islam. Mengenai testnya sendiri sebenarnya mudah, kita cuma disuruh menjawab 40 pertanyan, 40 pertanyaa tadi merupakan gabungan dari ke-4 sifat diatas, diakhir pertanyaan akan diberikan hasil apakah kita condong ke salah satu 4 sifat di atas atau kita memiliki gabungan dari ke-4 sifat tersebut</p>
 
 <h1 align="center">ISLAMIC PSYCHOLOGICAL TEST</h1>
-<p>I made this application after reading a book with the title **Perfect Islamic Psychology**, the important point of the book is actually an explanatio of 4 basic human nature, including<p>
+<p>I made this application after reading a book with the title <b>Perfect Islamic Psychology</b>, the important point of the book is actually an explanatio of 4 basic human nature, including<p>
 
 * Sanguin
 * Melankolis
