@@ -1,5 +1,5 @@
 <h1 align="center">TES PSIKOLOGI ISLAM</h1>
-<p>Aplikasi ini saya buat setelah selesai membaca buku dengan judul "Psikologi Islam yang Sempurna", point penting bukunya sebenarnya mengenai penjelasan 4 dasar sifat manusia, diantaranya</p>
+<p>Aplikasi ini saya buat setelah selesai membaca buku dengan judul ** Psikologi Islam yang Sempurna **, point penting bukunya sebenarnya mengenai penjelasan 4 dasar sifat manusia, diantaranya</p>
 
 
 * Sanguin
