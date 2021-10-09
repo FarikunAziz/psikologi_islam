@@ -17,3 +17,10 @@
 * Plegmatis
 
 The 4 traits above are explained from an Islamic point of view. Regarding the test itself, it's actually easy, we are only asked to answer 40 questions, the 40 questions above are a combination of the 4 traits above, at the end of the question the results will be given whether we are inclined to on of the 4 traits above or we have a combination of these 4 traits
+
+![1](https://github.com/FarikunAziz/psikologi_islam/blob/main/pics/gitPics/Screenshot%20from%202021-10-08%2022-43-15.png)
+![2](https://github.com/FarikunAziz/psikologi_islam/blob/main/pics/gitPics/Screenshot%20from%202021-10-09%2021-39-34.png)
+![3](https://github.com/FarikunAziz/psikologi_islam/blob/main/pics/gitPics/Screenshot%20from%202021-10-09%2021-40-10.png)
+![4](https://github.com/FarikunAziz/psikologi_islam/blob/main/pics/gitPics/Screenshot%20from%202021-10-09%2021-41-44.png)
+![5](https://github.com/FarikunAziz/psikologi_islam/blob/main/pics/gitPics/Screenshot%20from%202021-10-09%2021-42-39.png)
+![6](https://github.com/FarikunAziz/psikologi_islam/blob/main/pics/gitPics/Screenshot%20from%202021-10-09%2021-43-18.png)
