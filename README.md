@@ -2,6 +2,7 @@
 Aplikasi ini saya buat setelah selesai membaca buku dengan judul __Psikologi Islam yang Sempurna__, point penting bukunya sebenarnya mengenai penjelasan 4 dasar sifat manusia, diantaranya
 
 
+
 * Sanguin
 * Melankolis
 * Koleris
